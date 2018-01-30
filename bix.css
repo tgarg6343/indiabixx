@@ -63,8 +63,8 @@ img{
 	float: left;
 }
 .search{
+	align: right
 	float: right ;
-	
 }
 header{
 	padding: 30px;
